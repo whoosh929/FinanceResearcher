@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Main",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal",
+            "env": {
+                
+            },
+            "justMyCode": true
+        }
+    ]
+}
